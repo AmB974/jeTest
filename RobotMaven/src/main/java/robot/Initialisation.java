@@ -220,6 +220,8 @@ public class Initialisation implements Serializable {
     public void setPrésenceMinerai(boolean presenceMinerai) {
         this.presenceMinerai = presenceMinerai;
         int test= 4;
+
+        String lol ="lool";
     }
 
     @Override
